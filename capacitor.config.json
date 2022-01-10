@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Resourceful",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Resourceful",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "bfc024ab"
+}
